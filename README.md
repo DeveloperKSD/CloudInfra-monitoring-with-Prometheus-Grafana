@@ -22,15 +22,6 @@ A centralized monitoring solution built on Google Cloud Platform using **Prometh
 * Node Exporter
 * stress-ng
 
-## Architecture
-
-Add architecture diagram here.
-
-```md
-![Architecture Diagram](images/architecture.png)
-```
-
----
 
 ## Prerequisites
 
