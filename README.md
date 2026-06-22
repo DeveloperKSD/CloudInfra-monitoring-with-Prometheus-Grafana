@@ -52,7 +52,6 @@ subnet-master  : 10.0.2.0/24
 ### Firewall Rules
 
 Allow:
-
 ```text
 SSH          : TCP 22
 Node Exporter: TCP 9100
